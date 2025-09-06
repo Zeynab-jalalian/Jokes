@@ -1,4 +1,4 @@
-# Random Jokes
+# Random Joke
 
 #### ![Languages](https://img.shields.io/github/languages/count/zeynab-jalalian/Jokes) :
  - ![Javascript](https://img.shields.io/badge/javascript-yellow) 
